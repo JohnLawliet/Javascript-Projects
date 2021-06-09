@@ -28,3 +28,33 @@
 [submodule "js-10-light-dark-mode"]
 	path = js-10-light-dark-mode
 	url = git@github.com:JohnLawliet/js-10-light-dark-mode.git
+[submodule "js-11-math-sprint-game"]
+	path = js-11-math-sprint-game
+	url = git@github.com:JohnLawliet/js-11-math-sprint-game.git
+[submodule "js-12-music-player"]
+	path = js-12-music-player
+	url = git@github.com:JohnLawliet/js-12-music-player.git
+[submodule "js-13-nasa-articles"]
+	path = js-13-nasa-articles
+	url = git@github.com:JohnLawliet/js-13-nasa-articles.git
+[submodule "js-14-paint-clone"]
+	path = js-14-paint-clone
+	url = git@github.com:JohnLawliet/js-14-paint-clone.git
+[submodule "js-15-Picture-In-Picture"]
+	path = js-15-Picture-In-Picture
+	url = git@github.com:JohnLawliet/js-15-Picture-In-Picture.git
+[submodule "js-16-pong"]
+	path = js-16-pong
+	url = git@github.com:JohnLawliet/js-16-pong.git
+[submodule "js-17-quotes"]
+	path = js-17-quotes
+	url = git@github.com:JohnLawliet/js-17-quotes.git
+[submodule "js-18-design-to-webpage"]
+	path = js-18-design-to-webpage
+	url = git@github.com:JohnLawliet/js-18-design-to-webpage.git
+[submodule "js-19-spock-rock-game"]
+	path = js-19-spock-rock-game
+	url = git@github.com:JohnLawliet/js-19-spock-rock-game.git
+[submodule "js-20-video-player"]
+	path = js-20-video-player
+	url = git@github.com:JohnLawliet/js-20-video-player.git
