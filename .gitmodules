@@ -10,3 +10,21 @@
 [submodule "js-4-calculator"]
 	path = js-4-calculator
 	url = git@github.com:JohnLawliet/js-4-calculator.git
+[submodule "js-5-countdown"]
+	path = js-5-countdown
+	url = git@github.com:JohnLawliet/js-5-countdown.git
+[submodule "js-6-dragNdrop"]
+	path = js-6-dragNdrop
+	url = git@github.com:JohnLawliet/js-6-dragNdrop.git
+[submodule "js-7-form-validator"]
+	path = js-7-form-validator
+	url = git@github.com:JohnLawliet/js-7-form-validator.git
+[submodule "js-8-infinite-scroll"]
+	path = js-8-infinite-scroll
+	url = git@github.com:JohnLawliet/js-8-infinite-scroll.git
+[submodule "js-9-joke-teller"]
+	path = js-9-joke-teller
+	url = git@github.com:JohnLawliet/js-9-joke-teller.git
+[submodule "js-10-light-dark-mode"]
+	path = js-10-light-dark-mode
+	url = git@github.com:JohnLawliet/js-10-light-dark-mode.git
