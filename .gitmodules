@@ -1,3 +1,12 @@
 [submodule "js-1-animated-site"]
 	path = js-1-animated-site
 	url = git@github.com:JohnLawliet/js-1-animated-site.git
+[submodule "js-2-sidebar"]
+	path = js-2-sidebar
+	url = git@github.com:JohnLawliet/js-2-sidebar.git
+[submodule "js-3-bookmarks"]
+	path = js-3-bookmarks
+	url = git@github.com:JohnLawliet/js-3-bookmarks.git
+[submodule "js-4-calculator"]
+	path = js-4-calculator
+	url = git@github.com:JohnLawliet/js-4-calculator.git
